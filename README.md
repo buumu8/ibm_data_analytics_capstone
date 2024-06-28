@@ -1,4 +1,4 @@
-# IBM Data Analytics Capstone Project
+# IBM Data Analists Capstone Project
 
 ## Module 1 Data Collection
 
