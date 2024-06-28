@@ -30,6 +30,6 @@
   - Visualizing Composition of Data
   - Visualizing Comparison of Data
 
-## Module 5
+## Module 5 Dashboard
 
 ## Module 6
