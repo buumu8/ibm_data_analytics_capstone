@@ -8,7 +8,14 @@
 
 ## Module 2 Data Wrangling
 
-## Module 3
+- Data Wrangling Lab
+  -- Finding Duplicates
+  -- Removing Duplicates
+  -- Finding Missing Values
+  -- Inputing Missing Values
+  -- Normalizing Data
+
+## Module 3 Data Analysis
 
 ## Module 4
 
